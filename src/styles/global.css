@@ -1,0 +1,17 @@
+
+.captcha-box {
+    background-color: lightgray;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5%;
+    padding: 1rem;
+    max-width: fit-content;
+}
+
+.center-items {
+    display: grid;
+    place-items: center;
+
+    height: 100vh;
+}
